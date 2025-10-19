@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![An image of @vendetta2025's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vendetta2025)](https://holopin.io/@vendetta2025)
 <!--
 **vendetta2025/vendetta2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![An image of @vendetta2025's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vendetta2025)](https://holopin.io/@vendetta2025)
